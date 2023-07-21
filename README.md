@@ -23,6 +23,9 @@ We will be working with the DNA dataset which holds the information about a smal
 - Thymine (T)
 
 We preprocess the data into a more usable format and train the MLP Classifier model. This model is based on Neural Network Architecture and provides very high performance with less training time. Then we created a django-project which becomes our website based that will be hosted on a cloud platform.
+
+MLP Classifier stands for Multi-layer Perceptron Classifier which in the name itself connects to a Neural Network. Unlike other classification algorithms such as Support Vectors or Naive Bayes Classifiers, MLP Classifier relies on an underlying Neural Network to perform the task of classification.
+
 </br></br>
 
 <img src="img/e_coli_image.png">
