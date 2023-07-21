@@ -1,4 +1,4 @@
-# E.coli Virus Detection
+# DNA Sequencing for Detecting E.coli Virus 
 
 ## Table of Content
 * [Overview](#overview)
