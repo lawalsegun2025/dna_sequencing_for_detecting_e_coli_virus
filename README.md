@@ -22,9 +22,15 @@ We will be working with the DNA dataset which holds the information about a smal
 - Guanine (G) and
 - Thymine (T)
 
-We preprocess the data into a more usable format and train the MLP Classifier model. This model is based on Neural Network Architecture and provides very high performance with less training time. Then we created a django-project which becomes our website based that will be hosted on a cloud platform.
+We preprocess the data into a more usable format and train the MLP Classifier model. This model is based on Neural Network Architecture and provides very high performance with less training time.
 
 MLP Classifier stands for Multi-layer Perceptron Classifier which in the name itself connects to a Neural Network. Unlike other classification algorithms such as Support Vectors or Naive Bayes Classifiers, MLP Classifier relies on an underlying Neural Network to perform the task of classification.
+
+Then we created a django-project which becomes our website based that will be hosted on a cloud platform.
+
+Django is a free and open source web application framework written in python. It includes advaned functionality like authentication suppoert, mangement and admin panels, contact forms, comment boxes, file upload suppoert and more.
+
+
 
 </br></br>
 
