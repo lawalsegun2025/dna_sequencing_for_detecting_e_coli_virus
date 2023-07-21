@@ -14,11 +14,26 @@
 
 ## Overview
 
+In the project, we built a deep learning model that is trained on DNA promoter dataset to understand if a person has the E.coli virus or not.
+
+We will be working with the DNA dataset which holds the information about a small part from the DNA encoded into four types of DNA molecule that are; 
+- Adenine (A)
+- Cytosine (C)
+- Guanine (G) and
+- Thymine (T)
+
+We preprocess the data into a more usable format and train the MLP Classifier model. This model is based on Neural Network Architecture and provides very high performance with less training time. Then we created a django-project which becomes our website based that will be hosted on a cloud platform.
+</br></br>
+
 <img src="img/e_coli_image.png">
 
 ## Motivation
 
 ## Project Workflow
+
+1. Preprocess the DNA data
+2. Train MLP Classifier model
+3. 2. Create the django fromt end
 
 ## Source of Dataset
 
